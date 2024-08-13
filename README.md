@@ -1,5 +1,7 @@
 # Advanced Garment Extraction using SAM and SAM2
 
+[![Watch the video](https://i.ytimg.com/vi/g_g3NYQabOM/hqdefault.jpg)](https://youtu.be/g_g3NYQabOM)
+
 ## Overview
 
 This project implements an advanced image segmentation pipeline for garment extraction using both SAM and SAM2 models. It features a user-friendly Gradio interface for interactive mask generation.
